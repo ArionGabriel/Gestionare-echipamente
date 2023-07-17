@@ -1,0 +1,62 @@
+.add-echipament-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .add-echipament-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .add-echipament-container form {
+    margin-bottom: 20px;
+  }
+  
+  .add-echipament-container form div {
+    margin-bottom: 15px;
+  }
+  
+  .add-echipament-container form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .add-echipament-container form input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .add-echipament-container form button[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .add-echipament-container form button[type="submit"]:hover {
+    background-color: #45a049;
+  }
+  
+  .add-echipament-container .link {
+    display: block;
+    text-align: center;
+    color: #4caf50;
+    margin-top: 10px;
+    text-decoration: none;
+  }
+  .add-echipament-container .success-message {
+    color: green;
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  

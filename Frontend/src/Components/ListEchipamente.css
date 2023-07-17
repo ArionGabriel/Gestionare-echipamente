@@ -1,0 +1,33 @@
+.list-echipamente-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .list-echipamente-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .list-echipamente-container div {
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .list-echipamente-container h2 {
+    color: #333;
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .list-echipamente-container p {
+    color: #777;
+    font-size: 14px;
+  }
+  
